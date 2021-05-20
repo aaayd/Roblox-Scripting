@@ -1,4 +1,3 @@
--- Example made by twink marie
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local lp = game.Players.LocalPlayer
